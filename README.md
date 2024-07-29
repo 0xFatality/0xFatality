@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/42/7c/90/427c90f57424c6e95d2b7571a900aaa8.gif"  />
+  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/2265938145324726793/571732177314E3AA9A82B4E86C5FCE1E051D6E6D/"  />
 </div>
 
 ###
